@@ -1,5 +1,5 @@
 # Whiteboard & Air Canvas
-Here, I've created an Air canvas and a Whiteboard with Machine Learning based on Computer Vision using Python. With finger tracking and hand motions, anything may be sketched on this air canvas. To develop this project, I used OpenCV's computer vision techniques. This project, Air Canvas, greatly aids us in avoiding the use of the mouse and the challenges associated with drawing with it on the current systems. By simply waving our hands, we can quickly and readily show our imagination. This makes the project more effective than the current one by using simple techniques or libraries like mediapipe.
+Here, I've created an Air canvas and a Whiteboard with Machine Learning based on Computer Vision using Python. With finger tracking and hand motions, anything may be sketched on this air canvas. This project, Air Canvas, greatly aids us in avoiding the use of the mouse and the challenges associated with drawing with it on the current systems. By simply waving our hands, we can quickly and readily show our imagination. This makes the project more effective than the current one by using simple techniques or libraries like mediapipe.
 
 • Keywords: Air Canvas, Mediapipe, OpenCV, Hand Tracking
 
