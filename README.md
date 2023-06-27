@@ -8,7 +8,8 @@ Here, I've created an Air canvas and a Whiteboard with Machine Learning based on
 
 ## Reference:
 1. i] Youtube Link: https://www.youtube.com/watch?v=T7sjrWc4QEc&t=8s
+
    ii] GitHub Link: https://github.com/infoaryan/Air-Canvas-with-ML
-2. https://www.geeksforgeeks.org/create-air-canvas-using-python-opencv/
-3. https://www.irjmets.com/uploadedfiles/paper//issue_5_may_2022/22247/final/fin_irjmets1651836068.pdf
+3. https://www.geeksforgeeks.org/create-air-canvas-using-python-opencv/
+4. https://www.irjmets.com/uploadedfiles/paper//issue_5_may_2022/22247/final/fin_irjmets1651836068.pdf
 
